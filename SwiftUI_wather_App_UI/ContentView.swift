@@ -31,7 +31,7 @@ struct ContentView: View {
                                          daytemp: 23)
                     Wheather_day_preview(dayofweek: "FRI",
                                          dayimage: "sunset.fill",
-                                         daytemp: 21)
+                                         daytemp: 28)
                     Wheather_day_preview(dayofweek: "SAT",
                                          dayimage: "cloud.rain.fill",
                                          daytemp: 19)
